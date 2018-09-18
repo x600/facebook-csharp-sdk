@@ -45,3 +45,6 @@ Dist/
 packages/
 NuGet.exe
 doc_output/
+/.vs
+/Source/.vs
+/Facebook-NetCore2.zip
